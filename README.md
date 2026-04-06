@@ -5,7 +5,7 @@
 
 ---
 
-![Preview](./image/4.jpg)
+![Preview](./images/4.jpg)
 
 ---
 
