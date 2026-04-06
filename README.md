@@ -81,6 +81,10 @@ Este repositorio documenta y describe el entorno de OpenCode más completo para 
 
 ---
 
+![Preview](./images/3.jpg)
+
+---
+
 ## 📁 Estructura del directorio
 
 Todo vive en `~/.config/opencode/` (Windows: `C:\Users\TU_USUARIO\.config\opencode\`).
@@ -297,6 +301,10 @@ Se activan automáticamente cuando `sdd-verify` detecta issues:
 ```
 
 La key `fallback` acepta una lista separada por coma. **El orden importa** — mayor prioridad el primero.
+
+---
+
+![Preview](./images/8.jpg)
 
 ---
 
