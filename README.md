@@ -5,6 +5,10 @@
 
 ---
 
+![Preview](./image/4.jpg)
+
+---
+
  ## ANTES DE EMPEZAR (MUY IMPORTANTE) ⚠️
 
 Nada de esto hubiera sido posible sin el trabajo del gran desarrollador Alan Buscaglia.
