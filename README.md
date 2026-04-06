@@ -5,6 +5,32 @@
 
 ---
 
+⚠️ ## ANTES DE EMPEZAR (MUY IMPORTANTE)
+
+Nada de esto hubiera sido posible sin el trabajo del gran desarrollador Alan Buscaglia.
+Gran parte de este setup está inspirado en sus proyectos, especialmente en su enfoque y herramientas.
+
+*Si este proyecto te aporta valor, te recomiendo pasar por su trabajo y apoyarlo* 👇
+
+💻 **Proyectos**
+
+*GitHub:* https://github.com/Gentleman-Programming
+*Gentle-AI:* https://github.com/Gentleman-Programming/gentle-ai
+
+🎥 **Redes**
+
+*Twitch: https:* //www.twitch.tv/gentleman_programming
+*YouTube: https:* //www.youtube.com/c/GentlemanProgramming
+*Canal secundario (VODs):* https://www.youtube.com/channel/UCIscmdXDtypp2zTzEEYxJwg
+*Kick:* https://kick.com/gentleman-programming
+
+💬 **Comunidad**
+
+*Discord:* https://discord.com/invite/3QVhF5vRsR
+
+💡 **Apoyar a los creadores que aportan valor a la comunidad es clave para que este tipo de proyectos sigan creciendo.**
+---
+
 ## 📋 Tabla de Contenidos
 
 1. [¿Qué incluye este setup?](#-qué-incluye-este-setup)
